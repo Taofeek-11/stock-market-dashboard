@@ -3,7 +3,7 @@
 
 ![Dashboard Preview](screenshots/dashboard_preview.png)
 
-A professional dark-theme stock market dashboard 
+A professional stock market dashboard 
 tracking 20 major stocks across Tech, Finance, 
 Healthcare and Consumer sectors.
 
