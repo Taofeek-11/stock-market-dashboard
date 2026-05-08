@@ -1,4 +1,7 @@
 # 📈 Stock Market Dashboard
+---
+
+![Dashboard Preview](tableau/dashboard_overview.png)
 
 A professional dark-theme stock market dashboard 
 tracking 20 major stocks across Tech, Finance, 
