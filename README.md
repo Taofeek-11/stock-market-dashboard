@@ -1,7 +1,7 @@
 # 📈 Stock Market Dashboard
 ---
 
-![Dashboard Preview](tableau/dashboard_overview.png)
+![Dashboard Preview](screenshots/dashboard_preview.png)
 
 A professional dark-theme stock market dashboard 
 tracking 20 major stocks across Tech, Finance, 
@@ -70,12 +70,6 @@ stock-market-dashboard/
 ├── screenshots/           # Dashboard preview images
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
-
----
-
-## 📸 Preview
-
-![Dashboard Preview](screenshots/dashboard_preview.png)
 
 ---
 
