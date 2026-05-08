@@ -64,12 +64,24 @@ Refresh the data source
 ## 📁 Project Structure
 
 stock-market-dashboard/
-├── data/                  # Static data files
-├── scripts/               # Python data pipeline
-├── dashboard/             # Tableau workbook
-├── screenshots/           # Dashboard preview images
-├── requirements.txt       # Python dependencies
-└── README.md              # Project documentation
+│
+├── data/
+│   ├── portfolio.csv          # Your holdings (symbol, shares, buy price)
+│   ├── timeframe.csv          # Timeframe selector values
+│   └── tabs.csv               # Portfolio/Alerts tab values
+│
+├── scripts/
+│   └── fetch_stock_data.py    # Python data pipeline
+│
+├── dashboard/
+│   └── stock_dashboard.twbx   # Tableau packaged workbook
+│
+├── screenshots/
+│   └── dashboard_preview.png  # Dashboard preview image
+│
+├── .gitignore
+├── requirements.txt
+└── README.md
 
 ---
 
